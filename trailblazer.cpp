@@ -1,8 +1,3 @@
-/*
- * Hi Diwakar!
- * This is Devansh Sharma's final assignment submission.
- */
-
 #include "trailblazer.h"
 #include "queue.h"
 #include "pqueue.h"
