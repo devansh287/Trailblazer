@@ -3,7 +3,7 @@ This project implements various algorithms to find paths on maps as well as gene
 information regarding this on my email devansh@stanford.edu.
 ## Disclaimer
 Stanford University's standard C++ libraries have been used to develop the project. I wrote the main implementation files i.e. 
-[trailblazer.cpp] (https://github.com/devansh287/Trailblazer/blob/master/trailblazer.cpp) Trailblazer/src folder.
+[trailblazer.cpp](https://github.com/devansh287/Trailblazer/blob/master/trailblazer.cpp) Trailblazer/src folder.
 ## Details (Taken from assignment instructions)
 This program displays various 2-dimensional worlds that represent either maps, mazes, or terrain and allows the user to generate paths 
 in a world from one point to another. 
